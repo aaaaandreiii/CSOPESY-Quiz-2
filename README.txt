@@ -1,3 +1,5 @@
+The entry class file is: main.cpp
+
 In order to run the following code please follow the following steps:
 1. CD to the current path of the main.cpp file
 2. Open your terminal and input the following command: g++ main.cpp -o main
